@@ -23,6 +23,15 @@ A high-performance automated trading bot designed specifically for sniping **May
 - 📊 **Dev Buy Filter**: Optional filter to only trade tokens where the creator bought with a minimum amount
 - 🔄 **Position Monitoring**: Real-time monitoring of positions with automatic sell triggers
 
+## Contact Me
+
+If you have any question or something, feel free to reach out me anytime.
+<br>
+#### You're always welcome
+
+Telegram: [@crypmancer](https://t.me/cryp_mancer) <br>
+
+
 ## 📋 Prerequisites
 
 - Node.js (v18 or higher)
